@@ -1,0 +1,7 @@
+#Sun Mar 26 20:23:29 CST 2017
+base.0=/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b62da8175cc231e198fb8e6e4e9878fa60bc3512
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3dc31d370131d62b00f7ae97c96f2d21e59b8cf0/classes.dex
+base.1=/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3dc31d370131d62b00f7ae97c96f2d21e59b8cf0
+file.0=/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b62da8175cc231e198fb8e6e4e9878fa60bc3512/classes.dex

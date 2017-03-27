@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="22036212069409"
+    token="5844481645560137911"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="91" />
+    <task
+        name="instant-run-dex"
+        duration="929" />
+    <task
+        name="instant-run-transform"
+        duration="33" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="21275055088006"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="21343065062865"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/builds/debug/21343065062865/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="21447336375105"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/builds/debug/21447336375105/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="21465184439202"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/builds/debug/21465184439202/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="21493233954643"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/builds/debug/21493233954643/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="21543076077851"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/builds/debug/21543076077851/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="21602081345660"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/builds/debug/21602081345660/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="21639244039420"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/builds/debug/21639244039420/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="21651680302624"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/builds/debug/21651680302624/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="21723406290969"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/builds/debug/21723406290969/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="21816819863415"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/builds/debug/21816819863415/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="21987915775490"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/builds/debug/21987915775490/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="22036212069409"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ab0b19e959da4793fcbe5925a6f721e48b763794">
+        <dex dex="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3dc31d370131d62b00f7ae97c96f2d21e59b8cf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liammartinezheredia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_d72e23e885ba842e1a52fde4cc8a7eadd7ae7853/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="46d2591b7a3bbd35bf75b92c4c59e0a9c95df1d0">
+        <dex dex="/Users/liammartinezheredia/Desktop/Android_programas/Practica_7 Dibujos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b62da8175cc231e198fb8e6e4e9878fa60bc3512/classes.dex" />
+    </item>
+
+</items>
